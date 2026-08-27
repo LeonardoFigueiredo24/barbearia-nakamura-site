@@ -6,56 +6,56 @@
 
 @font-face {
   font-family: 'Anton';
-  src: url('/assets/fonts/anton-latin-400-normal.woff2') format('woff2');
+  src: url('../fonts/anton-latin-400-normal.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Oswald';
-  src: url('/assets/fonts/oswald-latin-500-normal.woff2') format('woff2');
+  src: url('../fonts/oswald-latin-500-normal.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Oswald';
-  src: url('/assets/fonts/oswald-latin-600-normal.woff2') format('woff2');
+  src: url('../fonts/oswald-latin-600-normal.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Oswald';
-  src: url('/assets/fonts/oswald-latin-700-normal.woff2') format('woff2');
+  src: url('../fonts/oswald-latin-700-normal.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('/assets/fonts/poppins-latin-400-normal.woff2') format('woff2');
+  src: url('../fonts/poppins-latin-400-normal.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('/assets/fonts/poppins-latin-500-normal.woff2') format('woff2');
+  src: url('../fonts/poppins-latin-500-normal.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('/assets/fonts/poppins-latin-600-normal.woff2') format('woff2');
+  src: url('../fonts/poppins-latin-600-normal.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('/assets/fonts/poppins-latin-700-normal.woff2') format('woff2');
+  src: url('../fonts/poppins-latin-700-normal.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
